@@ -2962,6 +2962,12 @@
     githubId = 4731128;
     name = "Derick Eddington";
   };
+  derjohn = {
+    email = "himself@derjohn.de";
+    github = "derjohn";
+    githubId = 1343820;
+    name = "Andreas John";
+  };
   dermetfan = {
     email = "serverkorken@gmail.com";
     github = "dermetfan";
